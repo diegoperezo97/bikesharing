@@ -1,4 +1,4 @@
-# MODULE 14: NYC CITIBIKE WITH TABLEAU
+# MODULE 14: NYC Citibike with Tableau
 
 [link to dashboard](https://public.tableau.com/shared/4JYC4RTSG?:display_count=n&:origin=viz_share_link)
 
