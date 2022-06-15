@@ -2,6 +2,12 @@
 
 [link to dashboard](https://public.tableau.com/shared/4JYC4RTSG?:display_count=n&:origin=viz_share_link)
 
+In this presentation, I'll look at Tableau, a platform for data analysis and visualization that is mostly dominant in today's corporate environment. Because it enables data visualization specialists to create solutions that are both visually beautiful and easy enough for non-technical audiences to understand, Tableau is so well-liked.
+
+Consider this: If I send someone to a Jupyter Notebook to create a presentation for a CEO or vice president who doesn't know how to code, I'm going to receive a lot of blank looks. Even if I need that format to comprehend the data as a developer, my non-technical stakeholders don't benefit much from it. We will spend this module learning how to create clear, understandable data stories since that is what my stakeholders—whether they are CEOs, VPs, or even consumers—want to see. Our goal is to make my visualizations so understandable and practical that my stakeholders turn to them first when making important choices. 
+
+By giving me the resources to build effective analytic dashboards that both tell a compelling story and can be readily shared with others, Tableau will assist me in doing this. Stories are one of the tool's three essential elements. The other two, which I'll discuss later, are spreadsheets and dashboards. So let's roll up our sleeves and get ready to level up using Tableau, the most widely used data analysis tool available today.
+
 ## Overview of the Analysis
 
 * My friend Kate and I went on a once-in-a-lifetime trip last summer. For two weeks, we spent in New York City, seeing famous sites such as Central Park, the Statue of Liberty, and the Empire State Building. It was a lovely trip, and as you went home together, you realized something when you looked over your holiday photographs. Citi Bike, an unexpected suspect, was one of the crucial elements in the magic.
